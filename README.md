@@ -1,3 +1,20 @@
 # -- davedude1011 --
+<br>
 
-![Alt text](img.jpg?raw=true "Title")
+<div class="test">
+
+</div>
+
+
+
+<details open>
+<summary>Languages</summary>
+<img src="img.jpg">
+</details>
+<hr>
+
+<style>
+details {
+text-align: center
+}
+</style>
