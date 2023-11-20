@@ -17,17 +17,27 @@
 <br>
 <hr>
 
-<img src="https://lanyard.cnrad.dev/api/881114459752525834?borderRadius=10px&animated=:true&bg=282A3682" align="center">
-<div
-    align="center"
-    style="margin-block: 1em">
-        <a
-            href="https://discord.com/users/881114459752525834">
-            <img
-                src="https://lanyard.cnrad.dev/api/881114459752525834?borderRadius=10px&animated=:true&bg=282A3682" />
+<div align="center" style="margin-block: 1em">
+        <a href="https://discord.com/users/881114459752525834">
+            <img src="https://lanyard.cnrad.dev/api/881114459752525834?borderRadius=10px&animated=:true&bg=282A3682" />
         </a>
-        <br>
-        <img
-            style="margin-top: 1em"
-            src="https://komarev.com/ghpvc/?username=davedude1011&style=plastic&color=ffb3e5&label=Profile Views" alt="Profile Views" />
 </div>
+
+<table
+    align="center">
+    <tr
+        align="center">
+        <td
+            align="center"
+            style="width: 50%;">
+            <img
+                src="https://github-readme-stats.vercel.app/api/?username=acquitelol&show_icons=true&hide_border=true&hide_title=false&count_private=true&title_color=ffb3e5&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=20" />
+        </td>
+        <td
+            align="center"
+            style="width: 50%;">
+            <img
+                src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=acquitelol&layout=compact&show_icons=true&hide_border=true&count_private=true&title_color=ffb3e5&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=25" />
+        </td>
+    </tr>
+</table>
