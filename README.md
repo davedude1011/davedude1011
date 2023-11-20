@@ -24,4 +24,4 @@
 <br>
 <hr>
 
-<img src="https://lanyard.cnrad.dev/api/881114459752525834?borderRadius=10px&animated=:true&bg=282A3682"> 
+<img src="https://lanyard.cnrad.dev/api/881114459752525834?borderRadius=10px&animated=:true&bg=282A3682" align="center"> 
