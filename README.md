@@ -31,13 +31,13 @@
             align="center"
             style="width: 50%;">
             <img
-                src="https://github-readme-stats.vercel.app/api/?username=acquitelol&show_icons=true&hide_border=true&hide_title=false&count_private=true&title_color=ffb3e5&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=20" />
+                src="https://github-readme-stats.vercel.app/api/?username=davedude1011&show_icons=true&hide_border=true&hide_title=false&count_private=true&title_color=ffb3e5&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=20" />
         </td>
         <td
             align="center"
             style="width: 50%;">
             <img
-                src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=acquitelol&layout=compact&show_icons=true&hide_border=true&count_private=true&title_color=ffb3e5&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=25" />
+                src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=davedude101&layout=compact&show_icons=true&hide_border=true&count_private=true&title_color=ffb3e5&text_color=fff0f9&icon_color=ffb3e5&bg_color=282A3682&border_radius=25" />
         </td>
     </tr>
 </table>
