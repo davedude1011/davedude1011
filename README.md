@@ -7,7 +7,7 @@
 
 
 
-<details open style="text-align: center">
+<details open align="center">
 	<summary>Languages:</summary>
 	<img src="img.jpg">
 </details>
