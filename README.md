@@ -12,7 +12,7 @@
 <details open align="center" style="font-weight: bold; font-size: large">
 	<summary>Languages:</summary>
 	<br>
-	<img src="Languages.png">
+	<img src="https://skillicons.dev/icons?i=js,html,css,py&theme=dark">
 </details>
 <br>
 <br>
