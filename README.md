@@ -7,8 +7,19 @@
 
 
 
-<details open align="center">
+<hr>
+<br>
+<details open align="center" style="font-weight: bold">
 	<summary>Languages:</summary>
-	<img src="img.jpg">
+	<br>
+	<img src="Languages.png">
 </details>
+<br>
+<br>
+<details open align="center" style="font-weight: bold">
+	<summary>Software:</summary>
+	<br>
+	<img src="Software.png">
+</details>
+<br>
 <hr>
