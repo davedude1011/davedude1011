@@ -9,14 +9,14 @@
 
 <hr>
 <br>
-<details open align="center" style="font-weight: bold">
+<details open align="center" style="font-weight: bold; font-size: large">
 	<summary>Languages:</summary>
 	<br>
 	<img src="Languages.png">
 </details>
 <br>
 <br>
-<details open align="center" style="font-weight: bold">
+<details open align="center" style="font-weight: bold; font-size: large">
 	<summary>Software:</summary>
 	<br>
 	<img src="Software.png">
