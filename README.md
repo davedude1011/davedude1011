@@ -7,14 +7,8 @@
 
 
 
-<details open>
-<summary>Languages</summary>
-<img src="img.jpg">
+<details open style="text-align: center">
+	<summary>Languages:</summary>
+	<img src="img.jpg">
 </details>
 <hr>
-
-<style>
-details {
-text-align: center
-}
-</style>
