@@ -10,16 +10,16 @@
 <hr>
 <br>
 <details open align="center" style="font-weight: bold; font-size: large">
-	<summary>Languages:</summary>
+	<summary><h3>Languages:</h3></summary>
 	<br>
 	<img src="https://skillicons.dev/icons?i=js,html,css,py&theme=dark">
 </details>
 <br>
 <br>
 <details open align="center" style="font-weight: bold; font-size: large">
-	<summary>Software:</summary>
+	<summary><h3>Software:</h3></summary>
 	<br>
-	<img src="Software.png">
+	<img src="https://skillicons.dev/icons?i=vscode,figma,stackoverflow,discord&theme=dark">
 </details>
 <br>
 <hr>
