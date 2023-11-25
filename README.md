@@ -25,13 +25,6 @@
 <br>
 
 <div align="center" style="margin-block: 1em">
-        <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=davedude101&layout=compact&show_icons=true&hide_border=true&count_private=true&title_color=74b5f2&text_color=fff0f9&icon_color=74b5f2&bg_color=282A3682&border_radius=25" />
-</div>
-
-<br>
-<br>
-
-<div align="center" style="margin-block: 1em">
         <a href="https://discord.com/users/881114459752525834">
             <img src="https://lanyard.cnrad.dev/api/881114459752525834?borderRadius=10px&animated=:true&bg=282A3682" />
         </a>
