@@ -4,7 +4,7 @@
 <details open align="center" style="font-weight: bold; font-size: large">
 	<summary><h3>Languages:</h3></summary>
 	<br>
-	<img src="https://skillicons.dev/icons?i=js,html,css,py&theme=dark">
+	<img src="https://skillicons.dev/icons?i=ts,js,html,css,py&theme=dark">
 </details>
 <br>
 <br>
